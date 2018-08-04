@@ -1,0 +1,11 @@
+﻿Build started 12/12/2016 16:02:48.
+     1>Project "E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\CompilaLadder4.1\CompilaLadder4\CompilaLadder4.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\CompilaLadder4.1\Debug\CompilaLadder4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\CompilaLadder4.1\Debug\CompilaLadder4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\CompilaLadder4.1\Debug\CompilaLadder4.lib" /MACHINE:X86 Debug\CompilaLadder4.obj
+         Debug\stdafx.obj
+         CompilaLadder4.vcxproj -> E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\CompilaLadder4.1\Debug\CompilaLadder4.exe
+     1>Done Building Project "E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\CompilaLadder4.1\CompilaLadder4\CompilaLadder4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.29

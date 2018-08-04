@@ -1,0 +1,148 @@
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+E:\Baile_de_Favela\Lucas\Testes Para o Software_CLP\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Software Atualizado20.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+C:\Users\Aluno\Desktop\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+C:\Users\Aluno\Desktop\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado20.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.AutoClp.resources
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.AutoClp.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Config_cilindro.resources
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Config_cilindro.resources
+F:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_DBAutoCLP.resources
+E:\Baile_de_Favela\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_DBAutoCLP.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.AutoClp.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Config_cilindro.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_DBAutoCLP.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.AutoClp.resources
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Config_cilindro.resources
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_DBAutoCLP.resources
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+F:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+E:\Lucas\Lucas\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.ConfigPort.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.AutoClp.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.ConfigPort.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Config_cilindro.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_DBAutoCLP.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Teste.resources
+E:\Lucas\TCC_SENAI\Software Atualizado25.04\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form2.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.AutoClp.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.ConfigPort.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Config_cilindro.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form2.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_DBAutoCLP.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Teste.resources
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+E:\Lucas\TCC_SENAI\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Find_net.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe.config
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.exe
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.pdb
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.exe
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\bin\Debug\Software_V1.0.pdb
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csprojResolveAssemblyReference.cache
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.AutoClp.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.ConfigPort.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Config_cilindro.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Find_net.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form1.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form2.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.FormContatos.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_DBAutoCLP.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Form_novoProjeto.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Properties.Resources.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Teste.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1.0.csproj.GenerateResource.Cache
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.Splash_screen.resources
+E:\Lucas\TCC_SENAI\Software\PC\Software  12.11\Software_V1.0\Software_V1.0\obj\Debug\Software_V1._0.inicio.resources
